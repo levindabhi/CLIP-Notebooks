@@ -63,7 +63,7 @@ Custom Stylegan2 generator used in <a href="https://thisanimedoesnotexist.ai/">t
 
 | Notebook | AUthor |
 | :--- | :---:      |
-| Stylegan2/ada [![Open In Colab][colab-badge]](https://colab.research.google.com/github/levindabhi/CLIP-Notebooks/blob/main/CLIP_Stylegan.ipynb) | [Levin Dabhi](https://twitter.com/DabhiLevin)
+| Stylegan2/ada [![Open In Colab][colab-badge]](https://colab.research.google.com/github/levindabhi/CLIP-Notebooks/blob/main/CLIP_StyleGAN.ipynb) | [Levin Dabhi](https://twitter.com/DabhiLevin)
 | Stylegan2 TADNE [![Open In Colab][colab-badge]](https://colab.research.google.com/github/nagolinc/notebooks/blob/main/CLIP_%2B_TADNE_(pytorch)_v2.ipynb) | [nagolinc](https://github.com/nagolinc/notebooks)
 
 <br>
