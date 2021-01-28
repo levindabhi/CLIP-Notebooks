@@ -1,4 +1,4 @@
-# This repository contains colab notebooks of interestingexperiments on CLIP from different researchers and artists
+# This repository contains colab notebooks of interesting experiments on CLIP from different researchers and artists
 
 After OpenAI released [CLIP](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) with its [inference code and pre-trained model](https://github.com/openai/CLIP), the Twitter community is coming up with much amazing work on top of this model. Below are some of colab experiments for my personal collection.
 
@@ -45,26 +45,21 @@ Update: Wooh! Someone put BigSleep on web at [https://dank.xyz/#](https://dank.x
 <br>
 
 - ## Stylegan and CLIP
-
 Generating an image from stylegan generator based on text prompt. Here similarity between generated image and input text is calculated using CLIP and it is combined with stylegan discriminator score to optimize input latent vector.
-
+<br>
 Prompt: 'A girl wearing crown'
-
+<br>
 <img src="images/stylegan_A-Queen-wearing-crown.png" alt="A-Queen-wearing-crown" width="512" height="512">
 <br>
 Stylegan2 generator trained with FFHQ
 <br>
-
 <br>
 Prompt: 'A queen sitting on chair'
 <br>
 <img src="images/A-queen-sitting-on-chair.png" alt="A-Queen-wearing-crown" width="512" height="512">
-</br>
-Custom Stylegan2 generator used in <a href="https://thisanimedoesnotexist.ai/">thisanimedoesnotexist.ai</a>
-
 <br>
-
-
+Custom Stylegan2 generator used in <a href="https://thisanimedoesnotexist.ai/">thisanimedoesnotexist.ai</a>
+<br>
 
 | Notebook | AUthor |
 | :--- | :---:      |
