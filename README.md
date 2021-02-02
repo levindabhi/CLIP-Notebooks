@@ -35,7 +35,7 @@ Prompt: 'A colorful cartoon of a dog'
 
 Credits: [enricoros](https://github.com/lucidrains/big-sleep/issues/13)
 
-| Notebook | AUthor |
+| Notebook | Author |
 | :--- | :---:      |
 | Original notebook [![Open In Colab][colab-badge]](https://colab.research.google.com/github/levindabhi/CLIP-Notebooks/blob/main/The_Big_Sleep_BigGANxCLIP.ipynb) | [Ryan Murdock](https://twitter.com/advadnoun)
 | Simplified notebook [![Open In Colab][colab-badge]](https://colab.research.google.com/github/levindabhi/CLIP-Notebooks/blob/main/ClipBigGAN.ipynb) | [eyalgruss.com](https://twitter.com/eyaler)
@@ -61,12 +61,22 @@ Prompt: 'A queen sitting on chair'
 Custom Stylegan2 generator used in <a href="https://thisanimedoesnotexist.ai/">thisanimedoesnotexist.ai</a>
 <br>
 
-| Notebook | AUthor |
+| Notebook | Author |
 | :--- | :---:      |
 | Stylegan2/ada [![Open In Colab][colab-badge]](https://colab.research.google.com/github/levindabhi/CLIP-Notebooks/blob/main/CLIP_StyleGAN.ipynb) | [Levin Dabhi](https://twitter.com/DabhiLevin)
 | Stylegan2 TADNE [![Open In Colab][colab-badge]](https://colab.research.google.com/github/nagolinc/notebooks/blob/main/CLIP_%2B_TADNE_(pytorch)_v2.ipynb) | [nagolinc](https://github.com/nagolinc/notebooks)
 
 <br>
+
+- ## Searching images using CLIP
+
+You can search images from your image dataset or gallery by inputting text prompt
+
+| Notebook | Author |
+| :---: | :---: |
+| Search from images pile [![Open In Colab][colab-badge]](https://colab.research.google.com/github/levindabhi/CLIP-Notebooks/blob/main/search_using_CLIP.ipynb) | [Levin Dabhi](https://twitter.com/DabhiLevin)
+| Search from Unsplash [![Open In Colab][colab-badge]](https://colab.research.google.com/github/haltakov/natural-language-image-search/blob/main/colab/unsplash-image-search.ipynb) | [Vladimir Haltakov](https://github.com/haltakov)
+
 
 
 
